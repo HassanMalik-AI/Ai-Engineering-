@@ -1,6 +1,6 @@
 # 🤖 Logistic Regression in Supervised Learning
 
-> **A beginner-friendly guide with real code examples**
+
 
 ---
 
@@ -290,19 +290,3 @@ print("\n📊 Plot saved as 'logistic_regression_plot.png'")
 
 ---
 
-## 🚀 Next Steps
-
-After mastering Logistic Regression, explore:
-
-1. **Decision Trees** — tree-based classification
-2. **Random Forest** — ensemble of decision trees
-3. **Support Vector Machines (SVM)** — margin-based classification
-4. **Neural Networks** — deep learning for complex patterns
-
----
-
-> 💡 **Remember:** Logistic Regression is the "Hello World" of classification algorithms. Master it, and you'll have a solid foundation for all other ML models!
-
----
-
-*Made with ❤️ for ML beginners*
