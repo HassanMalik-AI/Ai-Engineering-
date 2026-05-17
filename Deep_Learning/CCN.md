@@ -1111,8 +1111,3 @@ Made with ❤️ for deep learning learners everywhere.
 ⭐ **Star this repo if it helped you learn CNNs!** ⭐
 
 </div>
-ENDOFFILE
-echo "Done! File size: $(wc -l < /mnt/user-data/outputs/CNN_README.md) lines"
-Output
-
-Done! File size: 1112 lines
