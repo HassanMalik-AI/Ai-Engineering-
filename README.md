@@ -33,5 +33,5 @@ CNN
 RNN
 LSTM
 Perceptron
-single layer perceptron neuron
-double layer perceptron neuron
+single layer neuron
+double layer neuron
