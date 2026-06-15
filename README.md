@@ -5,7 +5,7 @@
 Decision Tree
 K-MM
 Logistic Regression
-Naive_Bayes
+Naive_Baye
 Neural Network
 Random Forest
 SVM
