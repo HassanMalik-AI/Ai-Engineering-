@@ -35,4 +35,3 @@ LSTM
 Perceptron
 single layer neuron
 double layer neuron
-this is a deep learning structure
