@@ -520,5 +520,3 @@ Key Strengths:
   ✅ Fast training   ✅ Built-in regularization
   ✅ Feature importance   ✅ Works out of the box
 ```
-
-> XGBoost is the **Swiss Army knife** of machine learning — when in doubt on tabular data, start here. It has won more Kaggle competitions than any other single algorithm.
